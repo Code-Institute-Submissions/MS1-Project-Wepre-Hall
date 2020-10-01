@@ -1,41 +1,69 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Wepre Hall Website
 
-Welcome USER_NAME,
+## UX
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+As a local resident and having some interest in the local history after some research of the hall online, I discovered although there are various bits of information about the hall there is no one website dedicated to the hall itself. As the hall has been demolished my aim is to create a website to prevent the history of the hall being lost to time.
 
-## Gitpod Reminders
+### User Stories
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+user 1: "I would like to know about the history of Wepre hall, why was it demolished?
 
-`python3 -m http.server`
+user 2: "What did Wepre hall look like"
 
-A blue button should appear to click: *Make Public*,
+user 3: "Where was the location of the hall and what is there now?"
 
-Another blue button should appear to click: *Open Browser*.
+user 4: "What are the visitor centre opening times"  
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Strategy
 
-A blue button should appear to click: *Make Public*,
+As the site owner my goal is to consolidate all the past and present information about the hall into one place and provide users with this information in as simple a format as possible.  To achieve this, I aim to:
+-	Give information of the history of the hall
+-	Provide details of the present-day situation
+-	Show pictures of what the hall used to look like
+-	Give the halls location and visitor centre opening times
 
-Another blue button should appear to click: *Open Browser*.
+The target audience for the website is:
+-	Local people wanting to know more about the history of the area
+-	Visitors to the area looking for places to visit
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+### Scope
 
-## Updates Since The Instructional Video
+The website requirements and key functionality will include:
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+-	Users should be able to see a clear timeline of the history of the hall 
+-	Users should be informed concisely what is now at the site of where the hall used to be
+-	Image carousel of what the hall used to look like
+-	Embedded map of the location of the site
+-	Users should be given the opening times of the visitor centre
+-	The approach should be within my current capabilities
+-	Website should provide users with a clean and easy UX
+-	Users shouldn’t be overwhelmed with too much information 
+-	Needs to be a mobile first approach
+-	A contact me page
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed along with other common files.
+### Structure
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+The main objective of the website is to essentially provide information to a target audience of pretty much any age group or technical ability so it needs to be structured in as linear format as possible whilst still providing adequate information to the user.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Skeleton
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+The website will contain 4 pages:
+-	Home:  Image carousel, brief description of history and present day
+-	History: Image, timeline of Wepre hall history
+-	Visit: Image, description of the site now, visitor centre location and opening times. 
+-	Contact: Image and contact form for people wishing for more information
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Each of the pages will include:
+-	Navbar: Will navigate between the pages
+-	Footer: Links to wepre park website and leaflet download
 
---------
+Link to desktop wire frame note: tablet view will be the same??
 
-Happy coding!
+Link to mobile wireframes
+
+Surface
+Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
+
+Use the website coolors to decide on appropriate colour scheme.
+
+
