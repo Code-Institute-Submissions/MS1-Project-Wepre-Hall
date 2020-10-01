@@ -61,7 +61,8 @@ Link to desktop wire frame note: tablet view will be the same??
 
 Link to mobile wireframes
 
-Surface
+### Surface
+
 Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
 
 Use the website coolors to decide on appropriate colour scheme.
