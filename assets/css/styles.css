@@ -1,5 +1,45 @@
 /*********************colours***********/
 .navbar-bg-colour{
-    background-color:purple;
+    background-color:#35605a;
     
+}
+/***************************Navbar**********************/
+.title-font{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+.navbar{
+    min-height: 150px;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+/************************Footer***********************/
+
+footer{
+    background-color: #35605a;
+     min-height: 100px;
+     color:#fff;
+     font-weight: 300;
+     text-align: center;
+     font-family: 'Playfair Display', serif;
+     letter-spacing: 0.8px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+}
+
+.footer-font{
+    opacity: 0.6;
+}
+.footer-font:hover{
+    opacity: 0.8;
+}
+
+/******************media queries***************/
+
+@media(max-width:360px){
+.title-font{
+    font-size: 40px;
+}
+
 }
