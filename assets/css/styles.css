@@ -68,12 +68,20 @@ footer{
 
 }
 
-/**********************************Home Page*****************************/
-
-@media(min-width:1500px){
+@media(min-width:1000px){
 
 .carousel-item{
-    height: 700px;
+    height: 550px;
 }
+}
+
+
+/**********************************Home Page*****************************/
+
+.home-content{
+    height: 400px;
+    width: 100%;
+    font-family: 'Playfair Display', serif;
+    padding-top: 30px;
 }
 
