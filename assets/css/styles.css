@@ -70,6 +70,10 @@ footer{
 
 /**********************************Home Page*****************************/
 
+@media(min-width:1500px){
+
 .carousel-item{
-    height: 600px;
+    height: 700px;
 }
+}
+
