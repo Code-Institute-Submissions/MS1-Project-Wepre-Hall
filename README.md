@@ -38,7 +38,6 @@ The website requirements and key functionality will include:
 -	The approach should be within my current capabilities
 -	Website should provide users with a clean and easy UX
 -	Users shouldn’t be overwhelmed with too much information 
--	Needs to be a mobile first approach
 -	A contact me page
 
 ### Structure
