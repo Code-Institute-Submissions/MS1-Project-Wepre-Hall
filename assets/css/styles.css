@@ -12,7 +12,7 @@ body {
 /***************************Navbar**********************/
 .title{
     font-family: 'Playfair Display', serif;
-    font-size: 50px;
+    font-size: 40px;
     
 }
 .navbar{
@@ -22,8 +22,8 @@ body {
 }
 .logo{
     margin-top: 10px;
-height: 50px;
-width: 50px;
+height: 40px;
+width: 40px;
 }
 
 /************************Footer***********************/
@@ -90,10 +90,24 @@ footer{
 /**********************************Home Page*****************************/
 
 .home-content{
-    height: 400px;
+    height: 370px;
     width: 100%;
     font-family: 'Playfair Display', serif;
     padding-top: 30px;
+}
+
+.overview-heading{
+    padding-bottom: 20px;
+}
+.overview-heading i {
+    padding-left: 5px;
+}
+
+.the-hall-today-heading{
+    padding-bottom: 20px;
+}
+.the-hall-today-heading i {
+    padding-left: 5px;
 }
 
 /******************History*****************************/
@@ -105,7 +119,7 @@ footer{
 
 .history-heading {
 
-    margin: 50px 0 50px 0;
+    margin: 30px 0 30px 0;
 }
 .history-heading i {
     padding-left: 5px;
@@ -158,12 +172,23 @@ footer{
 /********************************Visit page****************************/
 .visit-container{
     
-    padding: 20px 0 0 20px;
-
-}
+    padding: 20px 20px 0 20px;
+    
+    }
 .visit-heading{
    padding-bottom: 20px;
+   }
+   .visit-heading i{
+       padding-left: 5px;
+   }
+.opening-times-heading{
+padding-top: 20px;
+padding-bottom: 20px;
 }
+ .opening-times-heading i{
+       padding-left: 5px;
+   }
+
 
 .map-responsive{
     overflow:hidden;
@@ -182,13 +207,17 @@ footer{
 /****************************contact**********************/
 
 .contact-heading{
-
-margin-top: 25px;
-margin-bottom: 25px;
+padding: 25px 0 25px 25px;
+}
+.contact-heading i {
+    padding-left: 5px;
+}
+.contact-question{
+    padding-left: 25px;
 }
 
 .center-form{
-padding-top:15px;
+padding-top:25px;
 max-width: 80%;
 margin:0 auto;
 }
