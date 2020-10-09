@@ -72,6 +72,7 @@ footer{
     margin-top: 5px;
 } 
 
+
 }
 
 @media(min-width:1000px){
@@ -99,6 +100,7 @@ footer{
 
 .big-pic{
     width: 100%;
+    
     }
 
 .history-heading {
@@ -175,4 +177,26 @@ footer{
     height:100%;
     width:100%;
     position:absolute;
+}
+
+/****************************contact**********************/
+
+.contact-heading{
+
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+.center-form{
+padding-top:15px;
+max-width: 80%;
+margin:0 auto;
+}
+
+button[type="submit"]{
+margin-top: 15px;
+margin-bottom: 20px;
+background-color: #35605a;
+color:#fff
+
 }
