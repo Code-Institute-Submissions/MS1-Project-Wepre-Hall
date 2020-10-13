@@ -64,8 +64,58 @@ Link to mobile wireframes
 
 Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
 
-Use the website coolors to decide on appropriate colour scheme.
 
-Title Icon is from logomakr.com
+## Features
+
+- Navbar: Responsive Nav bar with logo and title on the left and page navigation on the right, which collapses into a burger icon when viewed on a mobile.
+
+- Image Carousel: Large image carousel on home page, allows users to scroll through three hero images of the hall. 
+
+- Timeline: Sets out history of the hall in a timeline down the page using custom attributes.
+
+- Embedded Maps: Iframe to allow users to see the hall location on google maps.
+
+- Contact form: A contact from with required fields and placeholders, with a submit radio button.
+
+
+### Features to implement later
+
+- I would like to add functionality to the form so that when the data is submitted it get sent somewhere, this is currently beyond my skill set.
+
+## Technologies used
+
+### Languages
+
+- Html: Used for the site structure.
+
+- CSS: Used for adding styles to the website.
+
+- Javascript: Used for CDNs to JQuery for nav bar burger and for font awesome for title icons.
+
+### Libraries
+
+- Bootstrap 4 : Used for creating navbar, image carousel, opening times table and used the grid system layout to make the website responsive.
+
+- JQuery: Used for implementing the navbar burger collapse feature.
+
+### IDE And Version Control
+
+- Gitpod: Used as IDE environment.
+
+- Git: Used for verion control.
+
+- Github: Used for verion control and hosting.
+
+### Tools 
+
+- LogoMakr.com: Used for the creation of the logo.
+
+- Fontawesome.com: Used for title icons.
+
+- Fonts.google.com: Used for the fonts.
+
+- Maps.google.com: Used for embedded map feature.
+
+- Realfavicongenerator.net: Used for creation and implementation of favicon.
 
 
