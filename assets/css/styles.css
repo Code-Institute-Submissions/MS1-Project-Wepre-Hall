@@ -9,6 +9,7 @@ body {
     background-color:#35605a;
     
 }
+
 /***************************Navbar**********************/
 .title{
     font-family: 'Playfair Display', serif;
@@ -86,6 +87,10 @@ footer{
     }
 }
 
+/*******************************special********************/
+.big-pic{
+    width: 100%;
+    }
 
 /**********************************Home Page*****************************/
 
@@ -111,11 +116,6 @@ footer{
 }
 
 /******************History*****************************/
-
-.big-pic{
-    width: 100%;
-    
-    }
 
 .history-heading {
 
@@ -171,10 +171,8 @@ footer{
 
 /********************************Visit page****************************/
 .visit-container{
-    
     padding: 20px;
-    
-    }
+     }
 .visit-heading{
    padding-bottom: 20px;
    }
