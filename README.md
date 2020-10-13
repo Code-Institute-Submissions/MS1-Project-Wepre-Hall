@@ -108,14 +108,25 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 
 ### Tools 
 
-- LogoMakr.com: Used for the creation of the logo.
+- LogoMakr.com - Used for the creation of the logo.
 
-- Fontawesome.com: Used for title icons.
+- Fontawesome.com - Used for title icons.
 
-- Fonts.google.com: Used for the fonts.
+- Fonts.google.com - Used for the fonts.
 
-- Maps.google.com: Used for embedded map feature.
+- Coolers.co - Used for help with deciding on colour scheme.
 
-- Realfavicongenerator.net: Used for creation and implementation of favicon.
+- Maps.google.com - Used for embedded map feature.
+
+- Realfavicongenerator.net - Used for creation, implementation and testing of favicon.
+
+- Validator.w3.org - Used for validation of HTML code when testing.
+
+-  Jigsaw.w3.org/css-validator - Used for validation of CSS code when testing.
+
+- Search.google.com/test/mobile-friendly - Used for testing the websites mobile responsiveness.
+
+
+
 
 
