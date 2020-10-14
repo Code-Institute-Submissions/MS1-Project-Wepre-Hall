@@ -124,7 +124,7 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 
 -  Jigsaw.w3.org/css-validator - Used for validation of CSS code when testing.
 
-- Search.google.com/test/mobile-friendly - Used for testing the websites mobile responsiveness.
+- Search.google.com/test/mobile-friendly - Used for testing the website mobile responsiveness.
 
 
 

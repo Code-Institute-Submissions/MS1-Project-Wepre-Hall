@@ -43,9 +43,16 @@ footer{
 
 .footer-font{
     opacity: 0.6;
-}
+    color:#fff;
+    
+    }
+
 .footer-font:hover{
     opacity: 0.8;
+    
+    }
+.footer-style a {
+     text-decoration: none;
 }
 
 /******************media queries***************/
