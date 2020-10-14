@@ -126,7 +126,7 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 
 ### Tools 
 
-- [Link](http://LogoMakr.com) - Used for the creation of the logo.
+- [LogoMakr](http://LogoMakr.com) - Used for the creation of the logo.
 
 - [Link](http://Fontawesome.com) - Used for title icons.
 
