@@ -142,7 +142,7 @@ footer{
     padding: 0;
     margin: 0;
 }
-
+/* copied of CI course */
 .timeline-item:before {
     content: attr(data-dates);
     position: absolute;
@@ -154,7 +154,7 @@ footer{
     padding: 0;
     margin: 0;
 }
-
+/* copied of CI course */
 .timeline-item:after {
     width: 12px;
     height: 12px;
@@ -193,13 +193,14 @@ padding-bottom: 20px;
        padding-left: 5px;
    }
 
-
+/* copied of os training website */
 .map-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
 }
+/* copied of os training website */
 .map-responsive iframe{
     left:0;
     top:0;
@@ -225,7 +226,7 @@ padding-top:25px;
 max-width: 80%;
 margin:0 auto;
 }
-
+/* copied from CI course */
 button[type="submit"]{
 margin-top: 15px;
 margin-bottom: 20px;
