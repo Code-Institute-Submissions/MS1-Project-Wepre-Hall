@@ -56,21 +56,27 @@ Each of the pages will include:
 -	Navbar: Will navigate between the pages
 -	Footer: Links to wepre park website and leaflet download
 
-#### Deskop Wireframes
+#### Sketches
 
-<a href="assets/wireframes/desktop-home.png" target="_blank" >Desktop Home</a>
-<a href="assets/wireframes/desktop-history.png" target="_blank" >Desktop History</a>
-<a href="assets/wireframes/desktop-visit.png" target="_blank" >Desktop Visit</a>
-<a href="assets/wireframes/desktop-contact.png" target="_blank" >Desktop Contact</a>
+- <a href="assets/wireframes/Sketches.pdf" target="_blank" >Sketches</a>
+
+#### Desktop Wireframes
+
+- <a href="assets/wireframes/desktop-home.png" target="_blank" >Desktop Home</a>
+- <a href="assets/wireframes/desktop-history.png" target="_blank" >Desktop History</a>
+- <a href="assets/wireframes/desktop-visit.png" target="_blank" >Desktop Visit</a>
+- <a href="assets/wireframes/desktop-contact.png" target="_blank" >Desktop Contact</a>
 
 #### Mobile Wireframes
 
-<a href="assets/wireframes/mobile-home.png" target="_blank" >Mobile Home</a>
-<a href="assets/wireframes/mobile-history.png" target="_blank" >Mobile History</a>
-<a href="assets/wireframes/mobile-visit.png" target="_blank" >Mobile Visit</a>
-<a href="assets/wireframes/mobile-contact.png" target="_blank" >Mobile Contact</a>
+- <a href="assets/wireframes/mobile-home.png" target="_blank" >Mobile Home</a>
+- <a href="assets/wireframes/mobile-history.png" target="_blank" >Mobile History</a>
+- <a href="assets/wireframes/mobile-visit.png" target="_blank" >Mobile Visit</a>
+- <a href="assets/wireframes/mobile-contact.png" target="_blank" >Mobile Contact</a>
 
+#### Tablet view
 
+The tablet view will be the same as the desktop view.
 
 ### Surface
 

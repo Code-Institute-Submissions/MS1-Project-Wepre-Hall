@@ -102,10 +102,9 @@ footer{
 /**********************************Home Page*****************************/
 
 .home-content{
-    height: 370px;
-    width: 100%;
     font-family: 'Playfair Display', serif;
     padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .overview-heading{
