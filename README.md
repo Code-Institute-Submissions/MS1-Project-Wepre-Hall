@@ -126,23 +126,23 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 
 ### Tools 
 
-- [LogoMakr](http://LogoMakr.com) - Used for the creation of the logo.
+- [LogoMakr.com](http://LogoMakr.com) - Used for the creation of the logo.
 
-- [Link](http://Fontawesome.com) - Used for title icons.
+- [Fontawesome.com](http://Fontawesome.com) - Used for title icons.
 
-- [Link](http://Fonts.google.com) - Used for the fonts.
+- [Google fonts](http://Fonts.google.com) - Used for the fonts.
 
-- [Link](http://Coolers.co) - Used for help with deciding on colour scheme.
+- [Coolers.co](http://Coolers.co) - Used for help with deciding on colour scheme.
 
-- [Link](http://Maps.google.com) - Used for embedded map feature.
+- [Google Maps](http://Maps.google.com) - Used for embedded map feature.
 
-- [Link](http://Realfavicongenerator.net) - Used for creation, implementation and testing of favicon.
+- [Realfavicongenerator.net](http://Realfavicongenerator.net) - Used for creation, implementation and testing of favicon.
 
-- [Link](http://Validator.w3.org) - Used for validation of HTML code when testing.
+- [Validator.w3.org](http://Validator.w3.org) - Used for validation of HTML code when testing.
 
--  [Link](http://Jigsaw.w3.org/css-validator) - Used for validation of CSS code when testing.
+-  [Jigsaw.w3.org/css-validator](http://Jigsaw.w3.org/css-validator) - Used for validation of CSS code when testing.
 
-- [Link](http://Search.google.com/test/mobile-friendly) - Used for testing the website mobile responsiveness.
+- [Google.com/test/mobile-friendly](http://Search.google.com/test/mobile-friendly) - Used for testing the website mobile responsiveness.
 
 
 ## Testing
