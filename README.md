@@ -126,23 +126,42 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 
 ### Tools 
 
-- LogoMakr.com - Used for the creation of the logo.
+- [Link](http://LogoMakr.com) - Used for the creation of the logo.
 
-- Fontawesome.com - Used for title icons.
+- [Link](http://Fontawesome.com) - Used for title icons.
 
-- Fonts.google.com - Used for the fonts.
+- [Link](http://Fonts.google.com) - Used for the fonts.
 
-- Coolers.co - Used for help with deciding on colour scheme.
+- [Link](http://Coolers.co) - Used for help with deciding on colour scheme.
 
-- Maps.google.com - Used for embedded map feature.
+- [Link](http://Maps.google.com) - Used for embedded map feature.
 
-- Realfavicongenerator.net - Used for creation, implementation and testing of favicon.
+- [Link](http://Realfavicongenerator.net) - Used for creation, implementation and testing of favicon.
 
-- Validator.w3.org - Used for validation of HTML code when testing.
+- [Link](http://Validator.w3.org) - Used for validation of HTML code when testing.
 
--  Jigsaw.w3.org/css-validator - Used for validation of CSS code when testing.
+-  [Link](http://Jigsaw.w3.org/css-validator) - Used for validation of CSS code when testing.
 
-- Search.google.com/test/mobile-friendly - Used for testing the website mobile responsiveness.
+- [Link](http://Search.google.com/test/mobile-friendly) - Used for testing the website mobile responsiveness.
+
+
+## Testing
+
+### W3 Validators
+
+- Passed the HTML validator on second attempt, after fixing a bug (see bugs).
+
+![Image](assets/readme-images/html-validator-test.png)
+
+- CSS validator had two errors and both from the bootstrap CDN so cannot be changed.
+
+![Image](assets/readme-images/css-validator-test.png)
+
+### Mobile Friendly Test
+
+- Passed the google mobile friendly test.
+
+![Image](assets/readme-images/mobile-friendly-test.png)
 
 
 
