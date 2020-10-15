@@ -81,7 +81,7 @@ The tablet view will be the same as the desktop view.
 ### Surface
 
 Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
-
+-------------------------------------
 
 ## Features
 
@@ -99,7 +99,7 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 ### Features to implement later
 
 - I would like to add functionality to the form so that when the data is submitted it get sent somewhere, this is currently beyond my skill set.
-
+--------------------------------
 ## Technologies used
 
 ### Languages
@@ -144,26 +144,72 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 
 - [Google.com/test/mobile-friendly](http://Search.google.com/test/mobile-friendly) - Used for testing the website mobile responsiveness.
 
+- Google Chrome DevTools - Used for testing website responsiveness 
+------------------------------
 
 ## Testing
 
-### W3 Validators
+### Manual Testing
+
+#### Home Page
+- Tested all links to other pages work in the navbar.
+- Tested all links work in the footer.
+- Tested the carousel manually and automatically scrolls through 3 images. Left and right.
+- Tested the carousel indicator bar, scrolls to image which is clicked
+- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
+
+#### History Page
+- Tested all links to other pages work in the navbar.
+- Tested all links work in the footer.
+- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
+
+#### Visit Page
+- Tested all links to other pages work in the navbar.
+- Tested all links work in the footer.
+- Tested map is working.
+- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
+
+#### Contact Page
+
+- Tested all links to other pages work in the navbar.
+- Tested all links work in the footer.
+- Tested name and message field respond with error "Please fill in this field" when left empty and send button pressed.
+- Tested email field responds with error when email is written in an incorrect format.
+- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
+
+#### Friends and family
+
+I requested some feedback from friends and family on the how website displays on there devices, so was tested on iphone 7, iphone 8, iphone 11, ipad and two laptop computers.   
+
+#### W3 Validators
 
 - Passed the HTML validator on second attempt, after fixing a bug (see bugs).
 
 ![Image](assets/readme-images/html-validator-test.png)
 
-- CSS validator had two errors and both from the bootstrap CDN so cannot be changed.
+- CSS validator had two errors (see bugs)
 
 ![Image](assets/readme-images/css-validator-test.png)
 
-### Mobile Friendly Test
+#### Mobile Friendly Test
 
 - Passed the google mobile friendly test.
 
 ![Image](assets/readme-images/mobile-friendly-test.png)
 
 
+### Bugs
 
+- Burger icon drop down menu did not appear, to fix I found the answer on stack overflow and copied the code from there - I had to add some javascript to the pages this is mentioned in a comment above the code itself. 
+ 
+- Footer links were underlined, to fix I added a css class and set: `text-decoration: none;`
 
+- Carousel had white space either side, to fix I found the answer on stack overflow and added `img-responsive` bootstrap class to carousel HTML.
 
+- Embedded maps wasnt responsive in all views, to fix I found the answer on OS training website and copied there `map-responsive` css classes.
+
+- When testing in Devtools I found in the galaxy fold view the content text on the home page was encroaching into the footer, I found the problem was because I had added a height to the class for the content and that was stopping the bootstrap grid system from working. So to fix I removed the height property.
+
+- Failed HTML W3 validator because I had the hero image as a section element with no headings, to fix changed it to an aside element.
+
+- CSS validatior had 2 errors both were from the bootstaps CDN so could not be changed.
