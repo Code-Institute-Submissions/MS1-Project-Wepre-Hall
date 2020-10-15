@@ -81,7 +81,8 @@ The tablet view will be the same as the desktop view.
 ### Surface
 
 Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
--------------------------------------
+
+
 
 ## Features
 
@@ -99,7 +100,7 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 ### Features to implement later
 
 - I would like to add functionality to the form so that when the data is submitted it get sent somewhere, this is currently beyond my skill set.
---------------------------------
+
 ## Technologies used
 
 ### Languages
@@ -145,7 +146,7 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 - [Google.com/test/mobile-friendly](http://Search.google.com/test/mobile-friendly) - Used for testing the website mobile responsiveness.
 
 - Google Chrome DevTools - Used for testing website responsiveness 
-------------------------------
+
 
 ## Testing
 
