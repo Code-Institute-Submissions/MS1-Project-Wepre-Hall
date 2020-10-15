@@ -214,3 +214,40 @@ I requested some feedback from friends and family on the how website displays on
 - Failed HTML W3 validator because I had the hero image as a section element with no headings, to fix changed it to an aside element.
 
 - CSS validatior had 2 errors both were from the bootstaps CDN so could not be changed.
+
+## Deployment
+
+The website is hosted on GitHub pages on GitHub.com, where i saved all my repositories. The method I used for deployement was as follows:
+
+- Logged into GitHub.com.
+- Opened my repositories.
+- Opened my Milestone 1 project repository.
+- Under setting tab scrolled to GitHub Pages.
+- Under source section selected branch > master and folder > root.
+- Upon saving this my website was successfully deployed to  [https://rhysseddon.github.io/Milestone-1-Project/](https://rhysseddon.github.io/Milestone-1-Project/)
+
+
+
+## Credits
+
+### Features
+- Took some inspiration for the footer from CI mini project with bootstap 4. 
+
+- Timeline feature was copied then altered from CI mini project with bootstap 4 work history page.
+
+- Contact form was copied then altered from CI mini project contact page.
+
+
+
+### Content
+
+- The text on the home, history and visit pages was copied from the Wepre Park Wikipedia page everything else was written myself.
+- The opening times were from the Old Hall Cafe Facebook page.
+
+### Images
+
+- All images are from opensource from either [https://pixabay.com/](Pixabay.com) or [https://www.pexels.com/](Pexels.com)
+
+## Difficulties Encountered
+
+## Acknowlegements
