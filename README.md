@@ -250,7 +250,7 @@ All images are from open source from either [https://pixabay.com/](Pixabay.com) 
 
 ## Difficulties Encountered
 The main problem I encountered was after deciding on building a website for Wepre Hall, I soon realised as the hall was demolished in the 1960s there was a very limited amount of pictures available and next to none of these were good enough quality. 
-So I made the decision for decorative purposes i would substitute the old photographs for high quality images of similar settings. The original images can of the hall and park can be found on the Wikipeadia page and on the Wepre Park Leaflet and both can be found in the footer on the webpage.  
+So I made the decision for decorative purposes I would substitute the old photographs for high quality images of similar settings. The original images of the hall and park are on the Wepre Park Wikipedia page and in the Wepre Park Leaflet and both can be found in the footer on the webpage.  
 
 ## Acknowlegements
 
