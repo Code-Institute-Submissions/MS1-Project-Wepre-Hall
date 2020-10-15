@@ -246,8 +246,11 @@ The website is hosted on GitHub pages on GitHub.com, where i saved all my reposi
 
 ### Images
 
-- All images are from opensource from either [https://pixabay.com/](Pixabay.com) or [https://www.pexels.com/](Pexels.com)
+All images are from open source from either [https://pixabay.com/](Pixabay.com) or [https://www.pexels.com/](Pexels.com)
 
 ## Difficulties Encountered
+The main problem I encountered was after deciding on building a website for Wepre Hall, I soon realised as the hall was demolished in the 1960s there was a very limited amount of pictures available and next to none of these were good enough quality. 
+So I made the decision for decorative purposes i would substitute the old photographs for high quality images of similar settings. The original images can of the hall and park can be found on the Wikipeadia page and on the Wepre Park Leaflet and both can be found in the footer on the webpage.  
 
 ## Acknowlegements
+
