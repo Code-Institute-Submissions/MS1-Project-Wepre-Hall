@@ -8,11 +8,11 @@ As a local resident and having some interest in the local history after some res
 
 user 1: "I would like to know about the history of Wepre hall, why was it demolished?
 
-user 2: "What did Wepre hall look like"
+user 2: "What did Wepre hall look like?"
 
 user 3: "Where was the location of the hall and what is there now?"
 
-user 4: "What are the visitor centre opening times"  
+user 4: "What are the visitor centre opening times?"  
 
 ### Strategy
 
@@ -180,7 +180,7 @@ Taking inspiration from the nationaltrust.org.uk as they will have a similar tar
 
 #### Friends and family
 
-I requested some feedback from friends and family on the how website displays on there devices, so was tested on iphone 7, iphone 8, iphone 11, ipad and two laptop computers.   
+I requested some feedback from friends and family on the how website displays on there devices, so was tested on iphone 7, iphone 8, iphone 11, ipad and two laptop computers, the website looked good on all of these screen sizes. 
 
 #### W3 Validators
 
@@ -198,6 +198,16 @@ I requested some feedback from friends and family on the how website displays on
 
 ![Image](assets/readme-images/mobile-friendly-test.png)
 
+### User Story Testing Outcomes
+
+- user 1: "I would like to know about the history of Wepre hall, why was it demolished?  
+These questions are answered on the history page.
+- user 2: "What did Wepre hall look like?"  
+Images of the hall are displayed on the home, history and contact page.
+- user 3: "Where was the location of the hall and what is there now?"  
+This is addressed on the visit page.
+- user 4: "What are the visitor centre opening times?"  
+This information can be found on the visit page.
 
 ### Bugs
 
@@ -231,11 +241,11 @@ The website is hosted on GitHub pages on GitHub.com, where i saved all my reposi
 ## Credits
 
 ### Features
-- Took some inspiration for the footer from CI mini project with bootstap 4. 
+- Took some inspiration for the footer from CI mini project with Bootstap 4. 
 
-- Timeline feature was copied then altered from CI mini project with bootstap 4 work history page.
+- Timeline feature was copied then altered from CI mini project with Bootstap 4 work history page.
 
-- Contact form was copied then altered from CI mini project contact page.
+- Contact form was copied then altered from CI mini project with Bootstap 4 contact page.
 
 
 
