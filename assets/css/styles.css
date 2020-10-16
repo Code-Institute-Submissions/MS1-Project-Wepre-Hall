@@ -5,23 +5,23 @@ body {
 
 
 /*********************colours***********/
-.navbar-bg-colour{
+.navbar-bg-colour {
     background-color:#35605a;
     
 }
 
 /***************************Navbar**********************/
-.title{
+.title {
     font-family: 'Playfair Display', serif;
     font-size: 40px;
     
 }
-.navbar{
+.navbar {
     min-height: 100px;
     font-size: 20px;
     font-family: 'Playfair Display', serif;
 }
-.logo{
+.logo {
     margin-top: 10px;
 height: 40px;
 width: 40px;
@@ -29,7 +29,7 @@ width: 40px;
 
 /************************Footer***********************/
 
-footer{
+footer {
     background-color: #35605a;
      min-height: 100px;
      color:#fff;
@@ -41,13 +41,13 @@ footer{
      padding-bottom: 30px;
 }
 
-.footer-font{
+.footer-font {
     opacity: 0.6;
     color:#fff;
     
     }
 
-.footer-font:hover{
+.footer-font:hover {
     opacity: 0.8;
     
     }
@@ -57,24 +57,24 @@ footer{
 
 /******************media queries***************/
 
-@media(max-width:1000px){
-.title{
+@media(max-width:1000px) {
+.title {
     font-size: 30px;
 }
-.logo{
+.logo {
     height: 30px;
     width: 30px;
 }
-.navbar{
+.navbar {
    min-height: 32px;
 } 
 }
 
-@media(max-width:575px){
-  .title{
+@media(max-width:575px) {
+  .title {
     font-size: 25px;
 }
-.logo{
+.logo {
     height: 25px;
     width: 25px;
     margin-top: 5px;
@@ -83,38 +83,38 @@ footer{
 
 }
 
-@media(min-width:1000px){
+@media(min-width:1000px) {
 
-.carousel-item{
+.carousel-item {
     height: 550px;
 }
 
-.big-pic{
+.big-pic {
     max-height:650px;
     }
 }
 
 /*******************************special********************/
-.big-pic{
+.big-pic {
     width: 100%;
     }
 
 /**********************************Home Page*****************************/
 
-.home-content{
+.home-content {
     font-family: 'Playfair Display', serif;
     padding-top: 30px;
     padding-bottom: 20px;
 }
 
-.overview-heading{
+.overview-heading {
     padding-bottom: 20px;
 }
 .overview-heading i {
     padding-left: 5px;
 }
 
-.the-hall-today-heading{
+.the-hall-today-heading {
     padding-bottom: 20px;
 }
 .the-hall-today-heading i {
@@ -171,37 +171,37 @@ footer{
     margin-bottom: 30px;
 }
 
-.section-column{
+.section-column {
     margin-left:50px;
 }
 
 /********************************Visit page****************************/
-.visit-container{
+.visit-container {
     padding: 20px;
      }
-.visit-heading{
+.visit-heading {
    padding-bottom: 20px;
    }
-   .visit-heading i{
+   .visit-heading i {
        padding-left: 5px;
    }
-.opening-times-heading{
+.opening-times-heading {
 padding-top: 20px;
 padding-bottom: 20px;
 }
- .opening-times-heading i{
+ .opening-times-heading i {
        padding-left: 5px;
    }
 
 /* copied of os training website */
-.map-responsive{
+.map-responsive {
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
 }
 /* copied of os training website */
-.map-responsive iframe{
+.map-responsive iframe {
     left:0;
     top:0;
     height:100%;
@@ -211,23 +211,23 @@ padding-bottom: 20px;
 
 /****************************contact**********************/
 
-.contact-heading{
+.contact-heading {
 padding: 25px 0 25px 25px;
 }
 .contact-heading i {
     padding-left: 5px;
 }
-.contact-question{
+.contact-question {
     padding-left: 25px;
 }
 
-.center-form{
+.center-form {
 padding-top:25px;
 max-width: 80%;
 margin:0 auto;
 }
 /* copied from CI course */
-button[type="submit"]{
+button[type="submit"] {
 margin-top: 15px;
 margin-bottom: 20px;
 background-color: #35605a;

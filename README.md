@@ -2,6 +2,8 @@
 
 ## UX
 
+### Purpose
+
 As a local resident and having some interest in the local history after some research of the hall online, I discovered although there are various bits of information about the hall there is no one website dedicated to the hall itself. As the hall has been demolished my aim is to create a website to prevent the history of the hall being lost to time.
 
 ### User Stories
@@ -80,9 +82,13 @@ The tablet view will be the same as the desktop view.
 
 ### Surface
 
-Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
+#### Typography
 
+- I decided on the use of the Playfair Display, serif font family as it has a old world feel to it which will match the theme for the old historic hall well. 
 
+#### Colour Scheme
+
+- Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
 
 ## Features
 
