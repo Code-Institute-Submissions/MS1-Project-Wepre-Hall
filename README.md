@@ -265,3 +265,7 @@ So I made the decision for decorative purposes I would substitute the old photog
 
 ## Acknowlegements
 
+- Friends and family for their honest opinions
+- CI Slack Channel for valuable guidance and opinions
+- Mentor Rohit for guidance
+
