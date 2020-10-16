@@ -247,12 +247,13 @@ The website is hosted on GitHub pages on GitHub.com, where i saved all my reposi
 
 - Contact form was copied then altered from CI mini project with Bootstap 4 contact page.
 
+- Embedded Google maps feature I copied the CSS from OS training website.
 
 
 ### Content
 
 - The text on the home, history and visit pages was copied from the Wepre Park Wikipedia page everything else was written myself.
-- The opening times were from the Old Hall Cafe Facebook page.
+- The opening times I found on the Old Hall Cafe Facebook page.
 
 ### Images
 
