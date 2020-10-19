@@ -107,6 +107,9 @@ The tablet view will be the same as the desktop view.
 
 - I would like to add functionality to the form so that when the data is submitted it get sent somewhere, this is currently beyond my skill set.
 
+- In future I would like to develop a booking system so customers can book to a guided tour of the cellars beneath the visitor centre.
+
+
 ## Technologies used
 
 ### Languages
