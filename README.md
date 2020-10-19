@@ -232,10 +232,16 @@ This information can be found on the visit page.
 
 - Failed HTML W3 validator because I had the hero image as a section element with no headings, to fix changed it to an aside element.
 
+- When testing in Devtools, ipad pro view had whitespace below the footer on index.html and contact.html, to fix this I add media queries for the ipad pro view size and added a `min-height`. 
+
+
 ### Outstanding Bugs
 
 - CSS validatior had 2 errors both were from the bootstaps CDN so could not be changed.
 
+### Other Issues
+
+- During a review with my mentor he mentioned that some of the pages required alot of scrolling to the top of the page to get to the navbar to navigate and is not a very good user experience, to fix this I decided to make the navbar fixed to the top of the page by adding the bootstrap 4 class `sticky-top`. 
 
 ## Deployment
 
@@ -272,8 +278,9 @@ The website is hosted on GitHub pages on GitHub.com, where i saved all my reposi
 All images are from open source from either [https://pixabay.com/](Pixabay.com) or [https://www.pexels.com/](Pexels.com)
 
 ## Difficulties Encountered
-The main problem I encountered was after deciding on building a website for Wepre Hall, I soon realised as the hall was demolished in the 1960s there was a very limited amount of pictures available and next to none of these were good enough quality. 
+- The main problem I encountered was after deciding on building a website for Wepre Hall, I soon realised as the hall was demolished in the 1960s there was a very limited amount of pictures available and next to none of these were good enough quality. 
 So I made the decision for decorative purposes I would substitute the old photographs for high quality images of similar settings. The original images of the hall and park are on the Wepre Park Wikipedia page and in the Wepre Park Leaflet and both can be found in the footer on the webpage.  
+ 
 
 ## Acknowlegements
 
