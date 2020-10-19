@@ -190,11 +190,11 @@ I requested some feedback from friends and family on the how website displays on
 
 #### W3 Validators
 
-- Passed the HTML validator on second attempt, after fixing a bug (see bugs).
+- Passed the HTML validator on second attempt, after fixing a bug (see fixed bugs).
 
 ![Image](assets/readme-images/html-validator-test.png)
 
-- CSS validator had two errors (see bugs)
+- CSS validator had two errors (see outstanding bugs)
 
 ![Image](assets/readme-images/css-validator-test.png)
 
@@ -215,7 +215,7 @@ This is addressed on the visit page.
 - user 4: "What are the visitor centre opening times?"  
 This information can be found on the visit page.
 
-### Bugs
+### Fixed Bugs
 
 - Burger icon drop down menu did not appear, to fix I found the answer on stack overflow and copied the code from there - I had to add some javascript to the pages this is mentioned in a comment above the code itself. 
  
@@ -229,7 +229,10 @@ This information can be found on the visit page.
 
 - Failed HTML W3 validator because I had the hero image as a section element with no headings, to fix changed it to an aside element.
 
+### Outstanding Bugs
+
 - CSS validatior had 2 errors both were from the bootstaps CDN so could not be changed.
+
 
 ## Deployment
 
