@@ -148,16 +148,6 @@ The tablet view will be the same as the desktop view.
 - Footer
 
 
-
-
-
-
-
-
-
-
-
-
 ### Features to implement later
 
 - I would like to add functionality to the form so that when the data is submitted it get sent somewhere, this is currently beyond my skill set.
@@ -213,6 +203,8 @@ The tablet view will be the same as the desktop view.
 
 
 ## Testing
+
+[TESTING.md](TESTING.md) 
 
 ### Manual Testing
 
