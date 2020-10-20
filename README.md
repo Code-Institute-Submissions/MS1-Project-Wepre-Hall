@@ -92,15 +92,70 @@ The tablet view will be the same as the desktop view.
 
 ## Features
 
-- Navbar: Responsive Nav bar with logo and title on the left and page navigation on the right, which collapses into a burger icon when viewed on a mobile.
+### Navbar
 
-- Image Carousel: Large image carousel on home page, allows users to scroll through three hero images of the hall. 
+- House Logo on the left-hand side next to name of website in a large font size.
+- Navigation on the right side with links to home, history, contact and visit pages.
+- Links will collapse into a burger icon when viewed on mobile.
 
-- Timeline: Sets out history of the hall in a timeline down the page using custom attributes.
+### Footer
 
-- Embedded Maps: Iframe to allow users to see the hall location on google maps.
+- Link to Wepre park Wikipedia page and Wikipedia icon.
+- Link to download Wepre park leaflet and a download icon.
+- Link to Instagram page with Instagram icon.
 
-- Contact form: A contact from with required fields and placeholders, with a submit radio button.
+### Home Page
+
+- Navbar.
+- Full width image carousel with three scrollable images of the house.
+- Overview section with binoculars icon next to heading with a paragraph of brief introduction to the website.
+- The Hall Today section with suitable icon next to heading and a paragraph detailing what is currently happening at the site today.
+- Footer.
+
+### History Page
+
+- Navbar.
+- Large full width hero image.
+- History heading with suitable icon.
+- Clear timeline of the history of the house, with bullet points for the dates and and a title and desciption of what happened that year.
+- Footer.
+
+### Visit Page
+
+- Navbar
+- Large full width image.
+- Visit heading with suitable icon and a paragraph detailing what you can currently visit.
+- Opening times heading with suitable icon.
+- Clear table detailing opening times.
+- Embedded google map with location of hall, the ability to scroll the map and get directions.
+- Footer.
+
+### Contact Page
+
+- Navbar
+- Large full width image
+- Contact us title and suitable icon with a description of why to contact us
+- Contact form that should meet the following parameters:
+1) A Name input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”. 
+2) Name field should have the placeholder “Name”.
+3) An email input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”. 
+4) If the email address field is missing an @ symbol it should display the error message “Please include an @ in the email address, “ “ Is missing an @”.  
+5) Email field should have the placeholder “Email”.
+6) A Message input that should be a required field and if left out when clicking the submit button should display the error message “Please fill in this field”. 
+7) Message field should have the placeholder “Message”.
+8) Submit radio button with the placeholder “Send”.
+
+- Footer
+
+
+
+
+
+
+
+
+
+
 
 
 ### Features to implement later
