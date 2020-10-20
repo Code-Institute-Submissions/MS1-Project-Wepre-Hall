@@ -85,11 +85,11 @@ footer {
 @media(min-width:1000px) {
 
     .carousel-item {
-        height: 550px;
+        max-height: 750px;
     }
 
     .big-pic {
-        max-height: 650px;
+        max-height: 750px;
     }
 
     p {
@@ -101,11 +101,11 @@ footer {
 /* ipad pro view */
 @media screen and (min-width: 1024px) and (min-height: 1366px) {
     .home-content {
-        min-height: 615px;
+        min-height: 500px;
     }
 
     .contact-content {
-        min-height: 515px;
+        min-height: 450px;
     }
 }
 
