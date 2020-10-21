@@ -279,7 +279,7 @@ The website was tested for responsiveness on the following browsers:
 
 ## Friends and family
 
-I requested some feedback from friends and family on the how website displays on there devices, so was tested on iphone 7, iphone 8, iphone 11, ipad and two laptop computers, the website looked good on all of these screen sizes. 
+I requested some feedback from friends and family on the how website displays on there devices, so was tested on iphone 7, iphone 8, iphone 11, ipad and two laptop with computers one with chrome the other with safari, the website looked good on all of these screen sizes. 
 
 ## W3 Validators
 

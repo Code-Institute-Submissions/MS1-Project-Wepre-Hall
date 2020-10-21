@@ -207,10 +207,9 @@ The tablet view will be the same as the desktop view.
 [TESTING.md](TESTING.md) 
 
 
-
-
-
 ## Deployment
+
+### Hosting
 
 The website is hosted on GitHub pages on GitHub.com, where i saved all my repositories. The method I used for deployement was as follows:
 
@@ -221,19 +220,28 @@ The website is hosted on GitHub pages on GitHub.com, where i saved all my reposi
 - Under source section selected branch > master and folder > root.
 - Upon saving this my website was successfully deployed to  [https://rhysseddon.github.io/Milestone-1-Project/](https://rhysseddon.github.io/Milestone-1-Project/)
 
+### Local Deployment
 
+For local deployment:
+
+- Login to GitHub.com.
+- Open my repositories.
+
+- Click code and download zip.
+
+![Image](assets/readme-images/local-deployment-image.png)  
+
+- Extract the zip file once downloaded and open documents in a browser.
 
 ## Credits
 
 ### Features
+
 - Took some inspiration for the footer from CI mini project with Bootstap 4. 
 
-- Timeline feature was copied then altered from CI mini project with Bootstap 4 work history page.
+- Took inspiration for the timeline feature from CI mini project with Bootstap 4 work history page.
 
-- Contact form was copied then altered from CI mini project with Bootstap 4 contact page.
-
-- Embedded Google maps feature I copied the CSS from OS training website.
-
+- Contact form was inspired by CI mini project with Bootstap 4 contact page.
 
 ### Content
 
@@ -251,7 +259,7 @@ So I made the decision for decorative purposes I would substitute the old photog
 
 ## Acknowlegements
 
-- Friends and family for their honest opinions
-- CI Slack Channel for valuable guidance and opinions
+- Code to make the map responsive was sourced from OS training website- Friends and family for their honest opinions
+- Javascript cI Slack Channel for valuable guidance and opinions
 - Mentor Rohit for guidance
 
