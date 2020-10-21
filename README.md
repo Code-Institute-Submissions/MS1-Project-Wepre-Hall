@@ -107,7 +107,7 @@ The tablet view will be the same as the desktop view.
 ### Home Page
 
 - Navbar.
-- Full width image carousel with three scrollable images of the house.
+- Full width image carousel with three scrollable high resolution images of the house.
 - Overview section with binoculars icon next to heading with a paragraph of brief introduction to the website.
 - The Hall Today section with suitable icon next to heading and a paragraph detailing what is currently happening at the site today.
 - Footer.
@@ -115,17 +115,17 @@ The tablet view will be the same as the desktop view.
 ### History Page
 
 - Navbar.
-- Large full width hero image.
-- History heading with suitable icon.
-- Clear timeline of the history of the house, with bullet points for the dates and and a title and desciption of what happened that year.
+- High resolution and large full width hero image relating to hall history.
+- History heading with clock icon.
+- Clear timeline of the history of the house, with bullet points for the dates and a title and description of what happened that year.
 - Footer.
 
 ### Visit Page
 
 - Navbar
-- Large full width image.
-- Visit heading with suitable icon and a paragraph detailing what you can currently visit.
-- Opening times heading with suitable icon.
+- High resolution and large full width hero image of the park.
+- Visit heading with car icon and a paragraph detailing what you can currently visit.
+- Opening times heading with calender icon.
 - Clear table detailing opening times.
 - Embedded google map with location of hall, the ability to scroll the map and get directions.
 - Footer.
@@ -133,8 +133,8 @@ The tablet view will be the same as the desktop view.
 ### Contact Page
 
 - Navbar
-- Large full width image
-- Contact us title and suitable icon with a description of why to contact us
+- High resolution and large full width hero image of the hall.
+- Contact us title and speech bubble icon with a description of why to contact us
 - Contact form that should meet the following parameters:
 1) A Name input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”. 
 2) Name field should have the placeholder “Name”.
@@ -206,89 +206,9 @@ The tablet view will be the same as the desktop view.
 
 [TESTING.md](TESTING.md) 
 
-### Manual Testing
-
-#### Home Page
-- Tested all links to other pages work in the navbar.
-- Tested all links work in the footer.
-- Tested the carousel manually and automatically scrolls through 3 images. Left and right.
-- Tested the carousel indicator bar, scrolls to image which is clicked
-- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
-
-#### History Page
-- Tested all links to other pages work in the navbar.
-- Tested all links work in the footer.
-- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
-
-#### Visit Page
-- Tested all links to other pages work in the navbar.
-- Tested all links work in the footer.
-- Tested map is working.
-- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
-
-#### Contact Page
-
-- Tested all links to other pages work in the navbar.
-- Tested all links work in the footer.
-- Tested name and message field respond with error "Please fill in this field" when left empty and send button pressed.
-- Tested email field responds with error when email is written in an incorrect format.
-- Tested resposiveness in desktop, mobile and tablet views using Google Chrome Devtools.
-
-#### Friends and family
-
-I requested some feedback from friends and family on the how website displays on there devices, so was tested on iphone 7, iphone 8, iphone 11, ipad and two laptop computers, the website looked good on all of these screen sizes. 
-
-#### W3 Validators
-
-- Passed the HTML validator on second attempt, after fixing a bug (see fixed bugs).
-
-![Image](assets/readme-images/html-validator-test.png)
-
-- CSS validator had two errors (see outstanding bugs)
-
-![Image](assets/readme-images/css-validator-test.png)
-
-#### Mobile Friendly Test
-
-- Passed the google mobile friendly test.
-
-![Image](assets/readme-images/mobile-friendly-test.png)
-
-### User Story Testing Outcomes
-
-- user 1: "I would like to know about the history of Wepre hall, why was it demolished?  
-These questions are answered on the history page.
-- user 2: "What did Wepre hall look like?"  
-Images of the hall are displayed on the home, history and contact page.
-- user 3: "Where was the location of the hall and what is there now?"  
-This is addressed on the visit page.
-- user 4: "What are the visitor centre opening times?"  
-This information can be found on the visit page.
-
-### Fixed Bugs
-
-- Burger icon drop down menu did not appear, to fix I found the answer on stack overflow and copied the code from there - I had to add some javascript to the pages this is mentioned in a comment above the code itself. 
- 
-- Footer links were underlined, to fix I added a css class and set: `text-decoration: none;`
-
-- Carousel had white space either side, to fix I found the answer on stack overflow and added `img-responsive` bootstrap class to carousel HTML.
-
-- Embedded maps wasnt responsive in all views, to fix I found the answer on OS training website and copied there `map-responsive` css classes.
-
-- When testing in Devtools I found in the galaxy fold view the content text on the home page was encroaching into the footer, I found the problem was because I had added a height to the class for the content and that was stopping the bootstrap grid system from working. So to fix I removed the height property.
-
-- Failed HTML W3 validator because I had the hero image as a section element with no headings, to fix changed it to an aside element.
-
-- When testing in Devtools, ipad pro view had whitespace below the footer on index.html and contact.html, to fix this I add media queries for the ipad pro view size and added a `min-height`. 
 
 
-### Outstanding Bugs
 
-- CSS validatior had 2 errors both were from the bootstaps CDN so could not be changed.
-
-### Other Issues
-
-- During a review with my mentor he mentioned that some of the pages required alot of scrolling to the top of the page to get to the navbar to navigate and is not a very good user experience, to fix this I decided to make the navbar fixed to the top of the page by adding the bootstrap 4 class `sticky-top`. 
 
 ## Deployment
 
