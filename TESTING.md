@@ -250,6 +250,32 @@
 
 ![Image](assets/readme-images/footer-image.png) 
 
+## Devtools
+
+The website was extensively tested for responsiveness in google chrome devtools in the following devices:
+
+- Moto G4
+- Galaxy S5
+- Pixel 2
+- Pixel 2 XL
+- Phone 5/SE
+- Phone 6/7/8
+- Phone 6/7/8 Plus
+- Phone X
+- Ipad
+- Ipad Pro
+- Surface Duo
+- Galaxy Fold
+
+## Browsers
+
+The website was tested for responsiveness on the following browsers:
+
+- Google chrome
+- Safari
+- Microsoft Edge
+- Firefox
+
 
 ## Friends and family
 
