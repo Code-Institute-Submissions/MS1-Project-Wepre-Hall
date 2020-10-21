@@ -332,3 +332,6 @@ This information can be found on the visit page.
 ## Other Issues
 
 - During a review with my mentor he mentioned that some of the pages required alot of scrolling to the top of the page to get to the navbar to navigate and is not a very good user experience, to fix this I decided to make the navbar fixed to the top of the page by adding the bootstrap 4 class `sticky-top`. 
+
+
+## Return to [README.md](README.md) 
