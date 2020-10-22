@@ -14,33 +14,35 @@ user 2: "What did Wepre hall look like?"
 
 user 3: "Where was the location of the hall and what is there now?"
 
-user 4: "What are the visitor centre opening times?"  
+user 4: "What are the visitor centre opening times?"
 
 ### Strategy
 
-As the site owner my goal is to consolidate all the past and present information about the hall into one place and provide users with this information in as simple a format as possible.  To achieve this, I aim to:
--	Give information of the history of the hall
--	Provide details of the present-day situation
--	Show pictures of what the hall used to look like
--	Give the halls location and visitor centre opening times
+As the site owner my goal is to consolidate all the past and present information about the hall into one place and provide users with this information in as simple a format as possible. To achieve this, I aim to:
+
+- Give information of the history of the hall
+- Provide details of the present-day situation
+- Show pictures of what the hall used to look like
+- Give the halls location and visitor centre opening times
 
 The target audience for the website is:
--	Local people wanting to know more about the history of the area
--	Visitors to the area looking for places to visit
+
+- Local people wanting to know more about the history of the area
+- Visitors to the area looking for places to visit
 
 ### Scope
 
 The website requirements and key functionality will include:
 
--	Users should be able to see a clear timeline of the history of the hall 
--	Users should be informed concisely what is now at the site of where the hall used to be
--	Image carousel of what the hall used to look like
--	Embedded map of the location of the site
--	Users should be given the opening times of the visitor centre
--	The approach should be within my current capabilities
--	Website should provide users with a clean and easy UX
--	Users shouldn’t be overwhelmed with too much information 
--	A contact me page
+- Users should be able to see a clear timeline of the history of the hall
+- Users should be informed concisely what is now at the site of where the hall used to be
+- Image carousel of what the hall used to look like
+- Embedded map of the location of the site
+- Users should be given the opening times of the visitor centre
+- The approach should be within my current capabilities
+- Website should provide users with a clean and easy UX
+- Users shouldn’t be overwhelmed with too much information
+- A contact me page
 
 ### Structure
 
@@ -49,14 +51,16 @@ The main objective of the website is to essentially provide information to a tar
 ### Skeleton
 
 The website will contain 4 pages:
--	Home:  Image carousel, brief description of history and present day
--	History: Image, timeline of Wepre hall history
--	Visit: Image, description of the site now, visitor centre location and opening times. 
--	Contact: Image and contact form for people wishing for more information
+
+- Home: Image carousel, brief description of history and present day
+- History: Image, timeline of Wepre hall history
+- Visit: Image, description of the site now, visitor centre location and opening times.
+- Contact: Image and contact form for people wishing for more information
 
 Each of the pages will include:
--	Navbar: Will navigate between the pages
--	Footer: Links to wepre park website and leaflet download
+
+- Navbar: Will navigate between the pages
+- Footer: Links to wepre park website and leaflet download
 
 #### Sketches
 
@@ -84,11 +88,11 @@ The tablet view will be the same as the desktop view.
 
 #### Typography
 
-- I decided on the use of the Playfair Display, serif font family as it has a old world feel to it which will match the theme for the old historic hall well. 
+- I decided on the use of the Playfair Display, serif font family as it has a old world feel to it which will match the theme for the old historic hall well.
 
 #### Colour Scheme
 
-- Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability 
+- Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability
 
 ## Features
 
@@ -136,24 +140,23 @@ The tablet view will be the same as the desktop view.
 - High resolution and large full width hero image of the hall.
 - Contact us title and speech bubble icon with a description of why to contact us
 - Contact form that should meet the following parameters:
-1) A Name input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”. 
-2) Name field should have the placeholder “Name”.
-3) An email input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”. 
-4) If the email address field is missing an @ symbol it should display the error message “Please include an @ in the email address, “ “ Is missing an @”.  
-5) Email field should have the placeholder “Email”.
-6) A Message input that should be a required field and if left out when clicking the submit button should display the error message “Please fill in this field”. 
-7) Message field should have the placeholder “Message”.
-8) Submit radio button with the placeholder “Send”.
+
+1. A Name input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”.
+2. Name field should have the placeholder “Name”.
+3. An email input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”.
+4. If the email address field is missing an @ symbol it should display the error message “Please include an @ in the email address, “ “ Is missing an @”.
+5. Email field should have the placeholder “Email”.
+6. A Message input that should be a required field and if left out when clicking the submit button should display the error message “Please fill in this field”.
+7. Message field should have the placeholder “Message”.
+8. Submit radio button with the placeholder “Send”.
 
 - Footer
-
 
 ### Features to implement later
 
 - I would like to add functionality to the form so that when the data is submitted it get sent somewhere, this is currently beyond my skill set.
 
 - In future I would like to develop a booking system so customers can book to a guided tour of the cellars beneath the visitor centre.
-
 
 ## Technologies used
 
@@ -179,7 +182,7 @@ The tablet view will be the same as the desktop view.
 
 - Github: Used for verion control and hosting.
 
-### Tools 
+### Tools
 
 - [LogoMakr.com](http://LogoMakr.com) - Used for the creation of the logo.
 
@@ -195,17 +198,15 @@ The tablet view will be the same as the desktop view.
 
 - [Validator.w3.org](http://Validator.w3.org) - Used for validation of HTML code when testing.
 
--  [Jigsaw.w3.org/css-validator](http://Jigsaw.w3.org/css-validator) - Used for validation of CSS code when testing.
+- [Jigsaw.w3.org/css-validator](http://Jigsaw.w3.org/css-validator) - Used for validation of CSS code when testing.
 
 - [Google.com/test/mobile-friendly](http://Search.google.com/test/mobile-friendly) - Used for testing the website mobile responsiveness.
 
-- Google Chrome DevTools - Used for testing website responsiveness 
-
+- Google Chrome DevTools - Used for testing website responsiveness
 
 ## Testing
 
-[TESTING.md](TESTING.md) 
-
+[TESTING.md](TESTING.md)
 
 ## Deployment
 
@@ -218,7 +219,7 @@ The website is hosted on GitHub pages on GitHub.com, where i saved all my reposi
 - Opened my Milestone 1 project repository.
 - Under setting tab scrolled to GitHub Pages.
 - Under source section selected branch > master and folder > root.
-- Upon saving this my website was successfully deployed to  [https://rhysseddon.github.io/Milestone-1-Project/](https://rhysseddon.github.io/Milestone-1-Project/)
+- Upon saving this my website was successfully deployed to [https://rhysseddon.github.io/Milestone-1-Project/](https://rhysseddon.github.io/Milestone-1-Project/)
 
 ### Local Deployment
 
@@ -229,7 +230,7 @@ For local deployment:
 
 - Click code and download zip.
 
-![Image](assets/readme-images/local-deployment-image.png)  
+![Image](assets/readme-images/local-deployment-image.png)
 
 - Extract the zip file once downloaded and open documents in a browser.
 
@@ -237,7 +238,7 @@ For local deployment:
 
 ### Features
 
-- Took some inspiration for the footer from CI mini project with Bootstap 4. 
+- Took some inspiration for the footer from CI mini project with Bootstap 4.
 
 - Took inspiration for the timeline feature from CI mini project with Bootstap 4 work history page.
 
@@ -251,7 +252,6 @@ For local deployment:
 
 - Code for the favicon was sourced form RealFavicongenerator.net
 
-
 ### Content
 
 - The text on the home, history and visit pages was copied from the Wepre Park Wikipedia page everything else was written myself.
@@ -262,9 +262,9 @@ For local deployment:
 All images are from open source from either [https://pixabay.com/](Pixabay.com) or [https://www.pexels.com/](Pexels.com)
 
 ## Difficulties Encountered
-- The main problem I encountered was after deciding on building a website for Wepre Hall, I soon realised as the hall was demolished in the 1960s there was a very limited amount of pictures available and next to none of these were good enough quality. 
-So I made the decision for decorative purposes I would substitute the old photographs for high quality images of similar settings. The original images of the hall and park are on the Wepre Park Wikipedia page and in the Wepre Park Leaflet and both can be found in the footer on the webpage.  
- 
+
+- The main problem I encountered was after deciding on building a website for Wepre Hall, I soon realised as the hall was demolished in the 1960s there was a very limited amount of pictures available and next to none of these were good enough quality.
+  So I made the decision for decorative purposes I would substitute the old photographs for high quality images of similar settings. The original images of the hall and park are on the Wepre Park Wikipedia page and in the Wepre Park Leaflet and both can be found in the footer on the webpage.
 
 ## Acknowlegements
 
