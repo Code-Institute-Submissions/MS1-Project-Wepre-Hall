@@ -102,42 +102,37 @@ The tablet view will be the same as the desktop view.
 - House logo will link back to homepage.
 - Navigation on the right side with links to home, history, contact and visit pages.
 - Links will collapse into a burger icon when viewed on mobile.
+- Navbar will be present on every page.
 
 ### Footer
 
 - Link to Wepre park Wikipedia page and Wikipedia icon.
 - Link to download Wepre park leaflet and a download icon.
 - Link to Instagram page with Instagram icon.
+- Footer will be present on every page.
 
 ### Home Page
 
-- Navbar.
 - Full width image carousel with three scrollable high resolution images of the house.
 - Overview section with binoculars icon next to heading with a paragraph of brief introduction to the website.
 - The Hall Today section with suitable icon next to heading and a paragraph detailing what is currently happening at the site today.
-- Footer.
 
 ### History Page
 
-- Navbar.
 - High resolution and large full width hero image relating to hall history.
 - History heading with clock icon.
 - Clear timeline of the history of the house, with bullet points for the dates and a title and description of what happened that year.
-- Footer.
 
 ### Visit Page
 
-- Navbar
 - High resolution and large full width hero image of the park.
 - Visit heading with car icon and a paragraph detailing what you can currently visit.
 - Opening times heading with calender icon.
 - Clear table detailing opening times.
 - Embedded google map with location of hall, the ability to scroll the map and get directions.
-- Footer.
 
 ### Contact Page
 
-- Navbar
 - High resolution and large full width hero image of the hall.
 - Contact us title and speech bubble icon with a description of why to contact us
 - Contact form that should meet the following parameters:
@@ -150,8 +145,6 @@ The tablet view will be the same as the desktop view.
 6. A Message input that should be a required field and if left out when clicking the submit button should display the error message “Please fill in this field”.
 7. Message field should have the placeholder “Message”.
 8. Submit radio button with the placeholder “Send”.
-
-- Footer
 
 ### Features to implement later
 
