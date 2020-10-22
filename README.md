@@ -99,6 +99,7 @@ The tablet view will be the same as the desktop view.
 ### Navbar
 
 - House Logo on the left-hand side next to name of website in a large font size.
+- House logo will link back to homepage.
 - Navigation on the right side with links to home, history, contact and visit pages.
 - Links will collapse into a burger icon when viewed on mobile.
 
