@@ -66,6 +66,18 @@
 
 ![Image](assets/readme-images/footer-image.png)
 
+### Desktop view
+
+Website should appear as follows on a desktop:
+
+![Image](assets/readme-images/home-desktop-view.png)
+
+### Mobile View
+
+Website should appear as follows on mobile (example used iphone 6/7/8 plus):
+
+![Image](assets/readme-images/home-mobile-view.png)
+
 ## History Page Test Case
 
 ### Navbar
@@ -118,6 +130,18 @@
 - Links should display clearly on all devices on DevTools (see Devtools).
 
 ![Image](assets/readme-images/footer-image.png)
+
+### Desktop view
+
+Website should appear as follows on a desktop:
+
+![Image](assets/readme-images/history-desktop-view.png)
+
+### Mobile View
+
+Website should appear as follows on mobile (example used iphone 6/7/8 plus):
+
+![Image](assets/readme-images/history-mobile-view.png)
 
 ## Visit Page Test Case
 
@@ -187,6 +211,19 @@
 
 ![Image](assets/readme-images/footer-image.png)
 
+### Desktop view
+
+Website should appear as follows on a desktop:
+
+![Image](assets/readme-images/visit-desktop-view.png)
+
+### Mobile View
+
+Website should appear as follows on mobile (example used iphone 6/7/8 plus):
+
+![Image](assets/readme-images/visit-mobile-view.png)
+
+
 ## Contact Page Test Case
 
 ### Navbar
@@ -247,6 +284,18 @@
 - Links should display clearly on all devices on DevTools (see Devtools).
 
 ![Image](assets/readme-images/footer-image.png)
+
+### Desktop view
+
+Website should appear as follows on a desktop:
+
+![Image](assets/readme-images/contact-desktop-view.png)
+
+### Mobile View
+
+Website should appear as follows on mobile (example used iphone 6/7/8 plus):
+
+![Image](assets/readme-images/contact-mobile-view.png)
 
 ## Devtools
 
