@@ -261,10 +261,5 @@ So I made the decision for decorative purposes I would substitute the old photog
 
 - Code to make the map responsive was sourced from OS training website.
 - Friends and family for their honest opinions
-- Javascript cI Slack Channel for valuable guidance and opinions
-
+- Javascript CI Slack Channel for valuable guidance and opinions
 - Mentor Rohit for guidance
-
-.'
-
-..
