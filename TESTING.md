@@ -300,13 +300,24 @@ I requested some feedback from friends and family on the how website displays on
 ## User Story Testing Outcomes
 
 - user 1: "I would like to know about the history of Wepre hall, why was it demolished?  
-These questions are answered on the history page.
+These questions are answered on the history page.  
+
+![Image](assets/readme-images/userstory1-outcome-image.png)
+
 - user 2: "What did Wepre hall look like?"  
 Images of the hall are displayed on the home, history and contact page.
+
+![Image](assets/readme-images/userstory2-outcome-image.png)
+
 - user 3: "Where was the location of the hall and what is there now?"  
 This is addressed on the visit page.
+
+![Image](assets/readme-images/userstory3-outcome-image.png)
+
 - user 4: "What are the visitor centre opening times?"  
 This information can be found on the visit page.
+
+![Image](assets/readme-images/userstory4-outcome-image.png)
 
 ## Fixed Bugs
 

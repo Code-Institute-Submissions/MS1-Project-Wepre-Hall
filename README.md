@@ -243,6 +243,15 @@ For local deployment:
 
 - Contact form was inspired by CI mini project with Bootstap 4 contact page.
 
+- Code to make the map responsive was sourced from OS training website.
+
+- Javascript Code for the burger icon was sourced form stack overflow.
+
+- Code for the logo was sourced from logoMakr.com.
+
+- Code for the favicon was sourced form RealFavicongenerator.net
+
+
 ### Content
 
 - The text on the home, history and visit pages was copied from the Wepre Park Wikipedia page everything else was written myself.
@@ -259,7 +268,6 @@ So I made the decision for decorative purposes I would substitute the old photog
 
 ## Acknowlegements
 
-- Code to make the map responsive was sourced from OS training website.
 - Friends and family for their honest opinions
-- Javascript CI Slack Channel for valuable guidance and opinions
+- Code Institute Slack Channel for valuable guidance and opinions
 - Mentor Rohit for guidance
