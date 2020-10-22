@@ -5,6 +5,7 @@
 ### Navbar
 
 - Navbar should have house logo on left next to title in a large font.
+- House logo when clicked should direct to index.html. 
 - On all navigation links the text should display brighter when the mouse is hovered over.
 - First navigation link should be to home page and should direct to index.html when clicked.
 - Second navigation link should be to history page and should direct to history.html when clicked.
@@ -70,6 +71,7 @@
 ### Navbar
 
 - Navbar should have house logo on left next to title in a large font.
+- House logo when clicked should direct to index.html.
 - On all navigation links the text should display brighter when the mouse is hovered over.
 - First navigation link should be to home page and should direct to index.html when clicked.
 - Second navigation link should be to history page and should direct to history.html when clicked.
@@ -122,6 +124,7 @@
 ### Navbar
 
 - Navbar should have house logo on left next to title in a large font.
+- House logo when clicked should direct to index.html.
 - On all navigation links the text should display brighter when the mouse is hovered over.
 - First navigation link should be to home page and should direct to index.html when clicked.
 - Second navigation link should be to history page and should direct to history.html when clicked.
@@ -189,6 +192,7 @@
 ### Navbar
 
 - Navbar should have house logo on left next to title in a large font.
+- House logo when clicked should direct to index.html.
 - On all navigation links the text should display brighter when the mouse is hovered over.
 - First navigation link should be to home page and should direct to index.html when clicked.
 - Second navigation link should be to history page and should direct to history.html when clicked.
