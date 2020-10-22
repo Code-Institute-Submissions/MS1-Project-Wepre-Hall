@@ -14,7 +14,7 @@ body {
 
 .navbar {
     min-height: 100px;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .logo {
@@ -65,6 +65,7 @@ footer {
 
     .navbar {
         min-height: 32px;
+        font-size: 20px;
     }
 }
 
@@ -92,8 +93,9 @@ footer {
         max-height: 750px;
     }
 
-     {
-     p   font-size: 22px;
+
+    p {
+        font-size: 22px;
     }
 
 }
@@ -193,7 +195,7 @@ footer {
 /*Below code is for styling the visit page*/
 .visit-container {
     padding: 20px;
-   
+
 }
 
 .visit-heading {
