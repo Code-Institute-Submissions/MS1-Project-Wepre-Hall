@@ -202,6 +202,22 @@ The tablet view will be the same as the desktop view.
 
 [TESTING.md](TESTING.md)
 
+## Best Practices
+
+### Naming Conventions
+
+Files names and CSS class names have been kept as relevant and consistant as possible. With names stating which page and area of the page the file or CSS class is for.
+
+### Code Validation
+
+- Code passed the W3 HTML validator on second attempt, after fixing a bug (see fixed bugs).
+
+![Image](assets/readme-images/html-validator-test.png)
+
+- CSS W3 validator had two errors (see outstanding bugs)
+
+![Image](assets/readme-images/css-validator-test.png)
+
 ## Deployment
 
 ### Hosting
@@ -262,6 +278,6 @@ All images are from open source from either [https://pixabay.com/](Pixabay.com) 
 
 ## Acknowlegements
 
-- Friends and family for their honest opinions and checking responsiveness on there devices
-- Code Institute Slack Channel for valuable guidance and opinions
-- Mentor Rohit for guidance
+- Friends and family for their honest opinions and checking responsiveness on there devices.
+- Code Institute Slack Channel for valuable guidance and opinions.
+- Mentor Rohit Sharma for his excellent guidance and advice.

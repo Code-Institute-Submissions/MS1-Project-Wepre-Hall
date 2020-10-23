@@ -327,16 +327,6 @@ The website was tested for responsiveness on the following browsers:
 
 I requested some feedback from friends and family on the how website displays on there devices, so was tested on iphone 7, iphone 8, iphone 11, ipad and two laptop with computers one with chrome the other with safari, the website looked good on all of these screen sizes.
 
-## W3 Validators
-
-- Passed the HTML validator on second attempt, after fixing a bug (see fixed bugs).
-
-![Image](assets/readme-images/html-validator-test.png)
-
-- CSS validator had two errors (see outstanding bugs)
-
-![Image](assets/readme-images/css-validator-test.png)
-
 ## Mobile Friendly Test
 
 - Passed the google mobile friendly test.
