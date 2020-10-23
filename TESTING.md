@@ -381,6 +381,8 @@ I requested some feedback from friends and family on the how website displays on
 
 - When testing in Devtools, ipad pro view had whitespace below the footer on index.html and contact.html, to fix this I add media queries for the ipad pro view size and added a `min-height`.
 
+- Deleted websitemanifest file and links to it as it was causing an error in firefox. The file was copied over in the files from Realfavicongenerator.net.
+
 ## Outstanding Bugs
 
 - CSS validatior had 2 errors both were from the bootstaps CDN so could not be changed.
