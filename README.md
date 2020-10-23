@@ -226,7 +226,7 @@ For local deployment:
 
 ![Image](assets/readme-images/local-deployment-image.png)
 
-- Extract the zip file once downloaded and open documents in a browser.
+- Extract the zip file and once downloaded, open index.html in a browser.
 
 ## Credits
 
