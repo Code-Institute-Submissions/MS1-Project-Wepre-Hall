@@ -1,260 +1,254 @@
 body {
-    font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
 
 /*colours*/
 .navbar-bg-colour {
-    background-color: #35605a;
+  background-color: #35605a;
 }
 
 /*Below code is to style the navbar*/
 .title {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .navbar {
-    min-height: 100px;
-    font-size: 24px;
+  min-height: 100px;
+  font-size: 24px;
 }
-
 .logo {
-    margin-top: 10px;
-    height: 40px;
-    width: 40px;
+  margin-top: 10px;
+  height: 40px;
+  width: 40px;
 }
 
 /*Below code is to style the footer*/
 footer {
-    background-color: #35605a;
-    min-height: 100px;
-    color: #fff;
-    font-weight: 300;
-    text-align: center;
-    font-family: 'Playfair Display', serif;
-    letter-spacing: 0.8px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+  background-color: #35605a;
+  min-height: 100px;
+  color: #fff;
+  font-weight: 300;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  letter-spacing: 0.8px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .footer-font {
-    opacity: 0.6;
-    color: #fff;
-
+  opacity: 0.6;
+  color: #fff;
 }
 
 .footer-font:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
 
 .footer-style a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 /*Below code is for media queries*/
 
 /*Tablet view and smaller*/
-@media(max-width:1000px) {
-    .title {
-        font-size: 30px;
-    }
+@media (max-width: 1000px) {
+  .title {
+    font-size: 30px;
+  }
 
-    .logo {
-        height: 30px;
-        width: 30px;
-    }
+  .logo {
+    height: 30px;
+    width: 30px;
+  }
 
-    .navbar {
-        min-height: 32px;
-        font-size: 20px;
-    }
+  .navbar {
+    min-height: 32px;
+    font-size: 20px;
+  }
 }
 
 /*Mobile view and smaller*/
-@media(max-width:575px) {
-    .title {
-        font-size: 25px;
-    }
+@media (max-width: 575px) {
+  .title {
+    font-size: 25px;
+  }
 
-    .logo {
-        height: 25px;
-        width: 25px;
-        margin-top: 5px;
-    }
+  .logo {
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+  }
 }
 
 /* Tablet view and bigger */
-@media(min-width:1000px) {
+@media (min-width: 1000px) {
+  .carousel-item {
+    max-height: 750px;
+  }
 
-    .carousel-item {
-        max-height: 750px;
-    }
+  .big-pic {
+    max-height: 750px;
+  }
 
-    .big-pic {
-        max-height: 750px;
-    }
-
-
-    p {
-        font-size: 20px;
-    }
-
+  p {
+    font-size: 20px;
+  }
 }
 
 /* ipad pro view */
 @media screen and (min-width: 1024px) and (min-height: 1366px) {
-    .home-content {
-        min-height: 500px;
-    }
+  .home-content {
+    min-height: 500px;
+  }
 
-    .contact-content {
-        min-height: 490px;
-    }
+  .contact-content {
+    min-height: 490px;
+  }
 }
 
 /*Below code is for styling all hero images*/
 .big-pic {
-    width: 100%;
+  width: 100%;
 }
 
 /*Below code styles the homepage*/
 .home-content {
-    font-family: 'Playfair Display', serif;
-    padding-top: 30px;
-    padding-bottom: 20px;
+  font-family: "Playfair Display", serif;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 .overview-heading {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .overview-heading i {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 .the-hall-today-heading {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .the-hall-today-heading i {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 /*Below code styles the history page*/
 .history-heading {
-    margin: 30px 0 30px 0;
+  margin: 30px 0 30px 0;
 }
 
 .history-heading i {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 /* Below code styles the timeline and it was sourced from CI course bootstrap 4 mini project work history */
 .timeline-item {
-    padding: 4em 2em 0em 2em;
-    position: relative;
-    border-left: 1px solid;
+  padding: 4em 2em 0em 2em;
+  position: relative;
+  border-left: 1px solid;
 }
 
 .timeline-item p {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 .timeline-item:before {
-    content: attr(data-dates);
-    position: absolute;
-    left: 2.5em;
-    top: 3em;
-    display: block;
-    font-weight: 500;
-    font-size: 0.8em;
-    padding: 0;
-    margin: 0;
+  content: attr(data-dates);
+  position: absolute;
+  left: 2.5em;
+  top: 3em;
+  display: block;
+  font-weight: 500;
+  font-size: 0.8em;
+  padding: 0;
+  margin: 0;
 }
 
 .timeline-item:after {
-    width: 12px;
-    height: 12px;
-    display: block;
-    top: 2.4em;
-    position: absolute;
-    left: -6px;
-    border-radius: 12px;
-    content: '';
-    background: #35605a;
+  width: 12px;
+  height: 12px;
+  display: block;
+  top: 2.4em;
+  position: absolute;
+  left: -6px;
+  border-radius: 12px;
+  content: "";
+  background: #35605a;
 }
 
 .history-items {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .section-column {
-    margin-left: 50px;
+  margin-left: 50px;
 }
 
 /*Below code is for styling the visit page*/
 .visit-container {
-    padding: 20px;
-
+  padding: 20px;
 }
 
 .visit-heading {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .visit-heading i {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 .opening-times-heading {
-    padding-top: 20px;
-    padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .opening-times-heading i {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 /* Below code makes the embedded map responsive and was sourced from os training website */
 .map-responsive {
-    overflow: hidden;
-    padding-bottom: 56.25%;
-    position: relative;
-    height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
 }
 
 .map-responsive iframe {
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }
 
 /*Below code styles the contact page*/
 .contact-heading {
-    padding: 25px 0 25px 25px;
+  padding: 25px 0 25px 25px;
 }
 
 .contact-heading i {
-    padding-left: 5px;
+  padding-left: 5px;
 }
 
 .contact-question {
-    padding-left: 25px;
+  padding-left: 25px;
 }
 
 /* Below code styles the contact form */
 .center-form {
-    padding-top: 25px;
-    max-width: 80%;
-    margin: 0 auto;
+  padding-top: 25px;
+  max-width: 80%;
+  margin: 0 auto;
 }
 
 /*Below code aligns the submit button */
 button[type="submit"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    background-color: #35605a;
-    color: #fff
+  margin-top: 15px;
+  margin-bottom: 20px;
+  background-color: #35605a;
+  color: #fff;
 }
