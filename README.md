@@ -20,29 +20,29 @@ user 4: "What are the visitor centre opening times?"
 
 As the site owner my goal is to consolidate all the past and present information about the hall into one place and provide users with this information in as simple a format as possible. To achieve this, I aim to:
 
-- Give information of the history of the hall
-- Provide details of the present-day situation
-- Show pictures of what the hall used to look like
-- Give the halls location and visitor centre opening times
+- Give information of the history of the hall.
+- Provide details of the present-day situation.
+- Show pictures of what the hall used to look like.
+- Give the halls location and visitor centre opening times.
 
 The target audience for the website is:
 
-- Local people wanting to know more about the history of the area
-- Visitors to the area looking for places to visit
+- Local people wanting to know more about the history of the area.
+- Visitors to the area looking for places to visit.
 
 ### Scope
 
 The website requirements and key functionality will include:
 
-- Users should be able to see a clear timeline of the history of the hall
-- Users should be informed concisely what is now at the site of where the hall used to be
-- Image carousel of what the hall used to look like
-- Embedded map of the location of the site
-- Users should be given the opening times of the visitor centre
-- The approach should be within my current capabilities
-- Website should provide users with a clean and easy UX
-- Users shouldn’t be overwhelmed with too much information
-- A contact me page
+- Users should be able to see a clear timeline of the history of the hall.
+- Users should be informed concisely what is now at the site of where the hall used to be.
+- Image carousel of what the hall used to look like.
+- Embedded map of the location of the site.
+- Users should be given the opening times of the visitor centre.
+- The approach should be within my current capabilities.
+- Website should provide users with a clean and easy UX.
+- Users shouldn’t be overwhelmed with too much information.
+- A contact me page.
 
 ### Structure
 
@@ -52,19 +52,19 @@ The main objective of the website is to essentially provide information to a tar
 
 The website will contain 4 pages:
 
-- Home: Image carousel, brief description of history and present day
-- History: Image, timeline of Wepre hall history
+- Home: Image carousel, brief description of history and present day.
+- History: Image, timeline of Wepre hall history.
 - Visit: Image, description of the site now, visitor centre location and opening times.
-- Contact: Image and contact form for people wishing for more information
+- Contact: Image and contact form for people wishing for more information.
 
 Each of the pages will include:
 
-- Navbar: Will navigate between the pages
-- Footer: Links to wepre park website and leaflet download
+- Navbar: Will navigate between the pages.
+- Footer: Links to wepre park website and leaflet download.
 
 #### Sketches
 
-- <a href="assets/wireframes/Sketches.pdf" target="_blank" >Sketches</a>
+- <a href="assets/wireframes/sketches.pdf" target="_blank" >Sketches</a>
 
 #### Desktop Wireframes
 
@@ -88,11 +88,11 @@ The tablet view will be the same as the desktop view.
 
 #### Typography
 
-- I decided on the use of the Playfair Display, serif font family as it has a old world feel to it which will match the theme for the old historic hall well.
+I decided on the use of the Playfair Display, serif font family as it has a old world feel to it which will match the theme for the old historic hall well.
 
 #### Colour Scheme
 
-- Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability
+Taking inspiration from the nationaltrust.org.uk as they will have a similar target demographic, use of strong pastel colours for header and footer that mix well with the images of the hall. And white space in-between content to aid readability.
 
 ## Features
 
@@ -134,7 +134,7 @@ The tablet view will be the same as the desktop view.
 ### Contact Page
 
 - High resolution and large full width hero image of the hall.
-- Contact us title and speech bubble icon with a description of why to contact us
+- Contact us title and speech bubble icon with a description of why to contact us.
 - Contact form that should meet the following parameters:
 
 1. A Name input field that should be a requirement and if left out when clicking the submit button should display the error message “Please fill in this field”.
@@ -146,13 +146,13 @@ The tablet view will be the same as the desktop view.
 7. Message field should have the placeholder “Message”.
 8. Submit radio button with the placeholder “Send”.
 
-### Features to implement later
+### Features To Implement Later
 
 - I would like to add functionality to the form so that when the data is submitted it get sent somewhere, this is currently beyond my skill set.
 
 - In future I would like to develop a booking system so customers can book to a guided tour of the cellars beneath the visitor centre.
 
-## Technologies used
+## Technologies Used
 
 ### Languages
 
@@ -160,13 +160,13 @@ The tablet view will be the same as the desktop view.
 
 - CSS: Used for adding styles to the website.
 
-- Javascript: Used for CDNs to JQuery for nav bar burger and for font awesome for title icons.
+- Javascript: Used for CDNs to JQuery for nav bar burger icon and for font awesome for title icons.
 
 ### Libraries
 
 - Bootstrap 4 : Used for creating navbar, image carousel, opening times table and used the grid system layout to make the website responsive.
 
-- JQuery: Used for implementing the navbar burger collapse feature.
+- JQuery: Used for implementing the navbar burger icon collapse feature.
 
 ### IDE And Version Control
 
@@ -196,7 +196,7 @@ The tablet view will be the same as the desktop view.
 
 - [Google.com/test/mobile-friendly](http://Search.google.com/test/mobile-friendly) - Used for testing the website mobile responsiveness.
 
-- Google Chrome DevTools - Used for testing website responsiveness
+- Google Chrome DevTools - Used for testing website responsiveness.
 
 ## Testing
 
@@ -206,7 +206,7 @@ The tablet view will be the same as the desktop view.
 
 ### Naming Conventions
 
-Files names and CSS class names have been kept as relevant and consistant as possible. With names stating which page and area of the page the file or CSS class is for.
+Files names and CSS attributes names have been kept as relevant and consistant as possible. With names stating which page and area of the page the file or CSS attribute is for.
 
 ### Code Validation
 
